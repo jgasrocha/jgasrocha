@@ -38,7 +38,7 @@ Estou **em busca da minha primeira oportunidade profissional como desenvolvedor*
 Desenvolvi um sistema web voltado para **educação inclusiva**, atualmente **em uso por um Instituto Federal**.  
 O sistema foi criado com foco em **acessibilidade, organização pedagógica e acompanhamento de alunos com necessidades específicas**, unindo tecnologia e inclusão educacional.  
 
-🔗 [Acesse o projeto no GitHub](https://github.com/jgasrocha/sistema-educacao-inclusiva)
+🔗 [Acesse o projeto no GitHub](https://github.com/jgasrocha/agendaTEA-v3)
 
 ---
 
