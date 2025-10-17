@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou João Gabriel Silva Rocha, tenho 22 anos e sou licenciando em Ciências da Computação pelo IF Baiano, natural de Senhor do Bonfim, Bahia.  
+Olá! Sou João Gabriel Silva Rocha, tenho 22 anos e sou Licenciando em Ciências da Computação pelo IF Baiano, natural de Senhor do Bonfim, Bahia.  
 Sou apaixonado por tecnologia desde criança e estou sempre em busca de aprimorar meus conhecimentos, explorando novas formas de aplicar a computação para transformar realidades.
 
 Além do lado técnico, tenho grande interesse em unir tecnologia, educação e inclusão. Já desenvolvi um sistema e um jogo voltados para a educação inclusiva, com o objetivo de tornar o aprendizado mais acessível e significativo para todos.
